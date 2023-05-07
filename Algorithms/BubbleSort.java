@@ -20,7 +20,7 @@ class Solution {
         return arr;
     }
 }
-public class Main
+public class BubbleSort
 {
     public static void main(String[] args) {
         Solution m = new Solution();
